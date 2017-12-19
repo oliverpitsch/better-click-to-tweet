@@ -1,0 +1,35 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ *
+ * BLOCK: better-click-to-tweet/click-to-tweet CSS for the editor.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-better-click-to-tweet-click-to-tweet {
+/*	color: #ffffff !important;
+	background: #1da1f2;
+	border: none !important;
+	padding: 1rem;
+	width: 100%;
+	display: table;*/
+
+	display: table;
+	color: #000 !important;
+	background: #fff;
+	background-image: url(../../assets/img/birdy.png);
+	background-repeat: no-repeat;
+	background-position: 3% 50%;
+	border: none !important;
+	padding: 1.5rem 1.5rem 1.5rem 5rem;
+	text-align: center;
+	margin: 0 auto;
+	font-style: oblique;
+	border-radius: 0.5rem;
+}
+
+.wp-block-gb-tweet-04 a {
+	color: #ffffff !important;
+	border: none !important;
+	box-shadow: none;
+}
